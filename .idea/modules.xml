@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GIT_testaus/.idea/GIT_testaus.iml" filepath="$PROJECT_DIR$/../GIT_testaus/.idea/GIT_testaus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PIN_uusix.iml" filepath="$PROJECT_DIR$/.idea/PIN_uusix.iml" />
+    </modules>
+  </component>
+</project>
